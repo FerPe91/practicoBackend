@@ -1,0 +1,126 @@
+{
+  "peliculas": [
+    {
+      "id": "62194ac1-8cfd-4d8a-97fd-9d8a6b421eef",
+      "titulo": "El Padrino",
+      "año": 1972,
+      "director": "Francis Ford Coppola",
+      "actores": ["Marlon Brando", "Al Pacino", "James Caan"],
+      "imagen_portada": "https://www.google.com/images?q=el+padrino"
+    },
+    {
+      "id": "25df826d-739e-48a5-bcc1-129084d8e748",
+      "titulo": "El señor de los anillos: El retorno del rey",
+      "año": 2003,
+      "director": "Peter Jackson",
+      "actores": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
+      "imagen_portada": "https://www.google.com/images?q=el+señor+de+los+anillos"
+    },
+    {
+      "id": "c1953e4f-9c2b-4c1b-9efc-40d4d9dfc859",
+      "titulo": "Pulp Fiction",
+      "año": 1994,
+      "director": "Quentin Tarantino",
+      "actores": ["John Travolta", "Samuel L. Jackson", "Uma Thurman"],
+      "imagen_portada": "https://www.google.com/images?q=pulp+fiction"
+    },
+    {
+      "id": "f679cda7-4862-4fd5-b7e9-0d0a28579d44",
+      "titulo": "El club de la lucha",
+      "año": 1999,
+      "director": "David Fincher",
+      "actores": ["Edward Norton", "Brad Pitt", "Helena Bonham Carter"],
+      "imagen_portada": "https://www.google.com/images?q=el+club+de+la+lucha"
+    },
+    {
+      "id": "4c44683b-7c5a-4b2f-8439-34e3b9ac7044",
+      "titulo": "El caballero oscuro",
+      "año": 2008,
+      "director": "Christopher Nolan",
+      "sipnosis":"El caballero de la noche vs el joker ",
+      "actores": ["Christian Bale", "Heath Ledger", "Gary Oldman"],
+      "imagen_portada": "https://www.google.com/images?q=el+caballero+oscuro",
+      "rating":"%92"
+    },
+    {
+      "id": "dc7f5fe0-28dd-4a5b-b7b6-9b232f5ab493",
+      "titulo": "La lista de Schindler",
+      "año": 1993,
+      "director": "Steven Spielberg",
+      "actores": ["Liam Neeson", "Ben Kingsley", "Ralph Fiennes"],
+      "imagen_portada": "https://www.google.com/images?q=la+lista+de+schindler"
+    },
+        {
+      "id": "a828df61-4d46-4d9c-9e77-74b48c95b051",
+      "titulo": "El rey león",
+      "año": 1994,
+      "director": "Roger Allers, Rob Minkoff",
+      "actores": ["Matthew Broderick", "Jeremy Irons", "James Earl Jones"],
+      "imagen_portada": "https://www.google.com/images?q=el+rey+león"
+    },
+    {
+      "id": "3b6f4a5f-0f4f-43e1-9c1f-c1d72df27101",
+      "titulo": "Forrest Gump",
+      "año": 1994,
+      "director": "Robert Zemeckis",
+      "actores": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+      "imagen_portada": "https://www.google.com/images?q=forrest+gump"
+    },
+    {
+      "id": "f573f5a4-49be-43e1-8be9-47f82b4dd25f",
+      "titulo": "Interestelar",
+      "año": 2014,
+      "director": "Christopher Nolan",
+      "actores": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+      "imagen_portada": "https://www.google.com/images?q=interestelar"
+    },
+    {
+      "id": "62db5a8f-5ef8-49a6-85dd-181b82341e0c",
+      "titulo": "Matrix",
+      "año": 1999,
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "actores": ["Keanu Reeves", "Carrie-Anne Moss", "Laurence Fishburne"],
+      "imagen_portada": "https://www.google.com/images?q=matrix"
+    },
+    {
+      "id": "ee142ba5-d23e-4b84-8e09-4f76e0e9c7df",
+      "titulo": "El gran dictador",
+      "año": 1940,
+      "director": "Charles Chaplin",
+      "actores": ["Charles Chaplin", "Paulette Goddard", "Jack Oakie"],
+      "imagen_portada": "https://www.google.com/images?q=el+gran+dictador"
+    },
+    {
+      "id": "4b5de294-b0e6-4cc6-8b6f-24757f3e4b37",
+      "titulo": "Titanic",
+      "año": 1997,
+      "director": "James Cameron",
+      "actores": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+      "imagen_portada": "https://www.google.com/images?q=titanic"
+    },
+       {
+      "id": "ae6d9066-cd44-46bc-b18a-ff6a75507b79",
+      "titulo": "Seven",
+      "año": 1995,
+      "director": "David Fincher",
+      "actores": ["Brad Pitt", "Morgan Freeman", "Kevin Spacey"],
+      "imagen_portada": "https://www.google.com/images?q=seven"
+    },
+    {
+      "id": "1ed2884e-d9f7-43f7-bbfb-c24e93a4d486",
+      "titulo": "El resplandor",
+      "año": 1980,
+      "director": "Stanley Kubrick",
+      "actores": ["Jack Nicholson", "Shelley Duvall", "Danny Lloyd"],
+      "imagen_portada": "https://www.google.com/images?q=el+resplandor"
+    },
+    {
+      "id": "2b1b7a6d-6bb4-4df9-8938-cdd285d5b94d",
+      "titulo": "El silencio de los corderos",
+      "año": 1991,
+      "director": "Jonathan Demme",
+      "actores": ["Jodie Foster", "Anthony Hopkins", "Ted Levine"],
+      "imagen_portada": "https://www.google.com/images?q=el+silencio+de+los+corderos"
+    }
+  ]
+}
